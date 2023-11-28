@@ -18,6 +18,7 @@ Sachin Kanth (sakanth@ncsu.edu)
 
 ## Project 3 Demo Link: https://youtu.be/Qs1I-oxVBGU
 ## Repo Link: https://github.com/sachinak/MyScheduleBot
+## Rubrik File: https://github.com/KabirSinghBhatia/CSC510SEGroup10Project3/blob/main/Project3-rubrik.csv
 
 # Summary
 - Migrated the application from using .csv files to using MongoDB.
