@@ -1,7 +1,7 @@
  **A. RUBRIC SCORES**
  Proj3 Demo Link: https://youtu.be/Qs1I-oxVBGU
 
-  **Project 3 - Schedule Bot**
+ **B. Project 3 - Schedule Bot**
 
 |Notes	|Score|	Evidence|
 | -------- | -------- | -------- |
